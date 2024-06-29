@@ -1,0 +1,20 @@
+.business-details-paper {
+  width: 60vw;
+  height: 25vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-right: 50px; /* העברת ה־Paper לצד ימין */
+}
+
+.logo-image {
+  margin-right: 10px;
+  max-width: 150px;
+  color:rgb(251, 84, 84);
+  color: rgb(169, 124, 162);
+}
